@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Presentation1" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{8E2401B3-EDF4-42B6-8887-D5160CEB8B0E}">
+<presentation title="Presentation1" width="1280.0000000" height="720.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{144B8CC0-C09E-4C5C-A48F-79D97573F5B8}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,7 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="16057" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="0" title="UEA IT SERVICES SELF SERVICE" titleNormalized="uea it services self service" src="slide1.swf" size="17042" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -149,11 +149,13 @@
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI
+			<text>UEA IT SERVICES SELF SERVICE
+WIFI
 ACCOUNTS
-EMAIL</text>
+EMAIL
+TIMETABLES</text>
 		</slide>
-		<slide index="1" title="WIFI : DEVICE TYPE" titleNormalized="wifi : device type" src="slide2.swf" size="6480" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="1" title="WIFI DEVICE TYPE" titleNormalized="wifi device type" src="slide2.swf" size="5751" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -165,11 +167,12 @@ EMAIL</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : DEVICE TYPE
+			<text>WIFI DEVICE TYPE
 PHONES &amp; TABLETS
-DESKTOPS &amp; LAPTOPS</text>
+DESKTOPS &amp; LAPTOPS
+HOME</text>
 		</slide>
-		<slide index="2" title="WIFI : PHONES &amp; TABLETS" titleNormalized="wifi : phones &amp; tablets" src="slide3.swf" size="13107" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="2" title="WIFI PHONES &amp; TABLETS" titleNormalized="wifi phones &amp; tablets" src="slide3.swf" size="12610" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -181,15 +184,16 @@ DESKTOPS &amp; LAPTOPS</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : PHONES &amp; TABLETS
+			<text>WIFI PHONES &amp; TABLETS
 ANDROID
 IOS
-WINDOWS PHONE</text>
+WINDOWS PHONE
+HOME</text>
 		</slide>
-		<slide index="3" title="WIFI : ANDROID" titleNormalized="wifi : android" src="slide4.swf" size="8439" advanceOnTime="0" framesCount="2602" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="3" title="WIFI ANDROID" titleNormalized="wifi android" src="slide4.swf" size="7718" advanceOnTime="0" framesCount="2602" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video0" videoClipId="ispring.resources_19025b40.spr0_449802769" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19025b40.spr2_449802769" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video0" videoClipId="ispring.resources_1f791d30.spr0_1698816156" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f791d30.spr2_1698816156" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -202,12 +206,13 @@ WINDOWS PHONE</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : ANDROID</text>
+			<text>WIFI ANDROID
+HOME</text>
 		</slide>
-		<slide index="4" title="WIFI : IOS" titleNormalized="wifi : ios" src="slide5.swf" size="8429" advanceOnTime="0" framesCount="2211" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="4" title="WIFI IOS" titleNormalized="wifi ios" src="slide5.swf" size="7699" advanceOnTime="0" framesCount="2211" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video1" videoClipId="ispring.resources_19025dc0.spr0_449803752" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19025dc0.spr2_449803752" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_1fb49278.spr0_1698824250" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1fb49278.spr2_1698824250" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -220,12 +225,13 @@ WINDOWS PHONE</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : IOS</text>
+			<text>WIFI IOS
+HOME</text>
 		</slide>
-		<slide index="5" title="WIFI : WINDOWS PHONE" titleNormalized="wifi : windows phone" src="slide6.swf" size="8102" advanceOnTime="0" framesCount="1679" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="5" title="WIFI WINDOWS PHONE" titleNormalized="wifi windows phone" src="slide6.swf" size="7313" advanceOnTime="0" framesCount="1679" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video2" videoClipId="ispring.resources_190261c0.spr0_449804205" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_190261c0.spr2_449804205" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_1f9e52c8.spr0_1698829984" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e52c8.spr2_1698829984" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -238,9 +244,10 @@ WINDOWS PHONE</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : WINDOWS PHONE</text>
+			<text>WIFI WINDOWS PHONE
+HOME</text>
 		</slide>
-		<slide index="6" title="WIFI : DESKTOP &amp; LAPTOP" titleNormalized="wifi : desktop &amp; laptop" src="slide7.swf" size="9787" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="6" title="WIFI DESKTOP &amp; LAPTOP" titleNormalized="wifi desktop &amp; laptop" src="slide7.swf" size="9015" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -252,14 +259,15 @@ WINDOWS PHONE</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : DESKTOP &amp; LAPTOP
+			<text>WIFI DESKTOP &amp; LAPTOP
 MAC OS
-WINDOWS</text>
+WINDOWS
+HOME</text>
 		</slide>
-		<slide index="7" title="WIFI : MAC OS" titleNormalized="wifi : mac os" src="slide8.swf" size="8435" advanceOnTime="0" framesCount="2411" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="7" title="WIFI MAC OS" titleNormalized="wifi mac os" src="slide8.swf" size="7716" advanceOnTime="0" framesCount="2411" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video3" videoClipId="ispring.resources_25d248c8.spr0_449804860" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25d248c8.spr2_449804860" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_1f9e4fc8.spr0_1698837953" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e4fc8.spr2_1698837953" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -272,12 +280,13 @@ WINDOWS</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : MAC OS</text>
+			<text>WIFI MAC OS
+HOME</text>
 		</slide>
-		<slide index="8" title="WIFI : WINDOWS" titleNormalized="wifi : windows" src="slide9.swf" size="8436" advanceOnTime="0" framesCount="2211" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="8" title="WIFI WINDOWS" titleNormalized="wifi windows" src="slide9.swf" size="7717" advanceOnTime="0" framesCount="2211" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video4" videoClipId="ispring.resources_25d24cc8.spr0_449805343" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25d24cc8.spr2_449805343" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video4" videoClipId="ispring.resources_1f9e5a48.spr0_1698845140" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e5a48.spr2_1698845140" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -290,9 +299,10 @@ WINDOWS</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>WIFI : WINDOWS</text>
+			<text>WIFI WINDOWS
+HOME</text>
 		</slide>
-		<slide index="9" title="EMAIL : DEVICE TYPE" titleNormalized="email : device type" src="slide10.swf" size="6483" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="9" title="EMAIL DEVICE TYPE" titleNormalized="email device type" src="slide10.swf" size="5766" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -304,11 +314,12 @@ WINDOWS</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL : DEVICE TYPE
+			<text>EMAIL DEVICE TYPE
 PHONES &amp; TABLETS
-DESKTOPS &amp; LAPTOPS</text>
+DESKTOPS &amp; LAPTOPS
+HOME</text>
 		</slide>
-		<slide index="10" title="EMAIL : PHONES &amp; TABLETS" titleNormalized="email : phones &amp; tablets" src="slide11.swf" size="13117" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="10" title="EMAIL PHONES &amp; TABLETS" titleNormalized="email phones &amp; tablets" src="slide11.swf" size="12629" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -320,12 +331,13 @@ DESKTOPS &amp; LAPTOPS</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL : PHONES &amp; TABLETS
+			<text>EMAIL PHONES &amp; TABLETS
 ANDROID
 IOS
-WINDOWS PHONE</text>
+WINDOWS PHONE
+HOME</text>
 		</slide>
-		<slide index="11" title="EMAIL : DESKTOP &amp; LAPTOP" titleNormalized="email : desktop &amp; laptop" src="slide12.swf" size="9789" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="11" title="EMAIL DESKTOP &amp; LAPTOP" titleNormalized="email desktop &amp; laptop" src="slide12.swf" size="9019" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -337,66 +349,217 @@ WINDOWS PHONE</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL : DESKTOP &amp; LAPTOP
+			<text>EMAIL DESKTOP &amp; LAPTOP
 MAC OS
-WINDOWS</text>
+WINDOWS
+HOME</text>
 		</slide>
-		<slide index="12" title="EMAIL: ANDROID" titleNormalized="email: android" src="slide13.swf" size="7912" advanceOnTime="0" framesCount="2076" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="12" title="EMAIL ANDROID" titleNormalized="email android" src="slide13.swf" size="7163" advanceOnTime="0" framesCount="2075" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video5" videoClipId="ispring.resources_25d26448.spr0_449806233" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25d26448.spr2_449806233" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video5" videoClipId="ispring.resources_1f9e6e48.spr0_1698852796" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e6e48.spr2_1698852796" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video5" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="2075" playTime="86.4156667" pauseTime="0.0000000"/>
+				<step start="0" end="2074" playTime="86.4166667" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL: ANDROID</text>
+			<text>EMAIL ANDROID
+HOME</text>
 		</slide>
-		<slide index="13" title="EMAIL: IOS" titleNormalized="email: ios" src="slide14.swf" size="7905" advanceOnTime="0" framesCount="2072" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="13" title="EMAIL IOS" titleNormalized="email ios" src="slide14.swf" size="7129" advanceOnTime="0" framesCount="1657" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video6" videoClipId="ispring.resources_25e2e810.spr0_449806747" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25e2e810.spr2_449806747" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video6" videoClipId="ispring.resources_1f9e6c48.spr0_1698875906" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e6c48.spr2_1698875906" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video6" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="2071" playTime="86.2490000" pauseTime="0.0000000"/>
+				<step start="0" end="1656" playTime="69.0000000" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL: IOS</text>
+			<text>EMAIL IOS
+HOME</text>
 		</slide>
-		<slide index="14" title="EMAIL: WINDOWS PHONE" titleNormalized="email: windows phone" src="slide15.swf" size="7917" advanceOnTime="0" framesCount="2119" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="14" title="EMAIL WINDOWS PHONE" titleNormalized="email windows phone" src="slide15.swf" size="7156" advanceOnTime="0" framesCount="2118" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video7" videoClipId="ispring.resources_25e2ec10.spr0_449807262" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25e2ec10.spr2_449807262" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video7" videoClipId="ispring.resources_1f9e6cc8.spr0_1698882796" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e6cc8.spr2_1698882796" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video7" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="2118" playTime="88.2073333" pauseTime="0.0000000"/>
+				<step start="0" end="2117" playTime="88.2083333" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>EMAIL: WINDOWS PHONE</text>
+			<text>EMAIL WINDOWS PHONE
+HOME</text>
+		</slide>
+		<slide index="15" title="EMAIL MAC OS" titleNormalized="email mac os" src="slide16.swf" size="7149" advanceOnTime="0" framesCount="2281" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_1f9e6448.spr0_1698890093" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e6448.spr2_1698890093" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2280" playTime="95.0000000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EMAIL MAC OS
+HOME</text>
+		</slide>
+		<slide index="16" title="EMAIL WINDOWS" titleNormalized="email windows" src="slide17.swf" size="7144" advanceOnTime="0" framesCount="2203" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_1f9e6e48.spr0_1698896906" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f9e6e48.spr2_1698896906" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2202" playTime="91.7500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EMAIL WINDOWS
+HOME</text>
+		</slide>
+		<slide index="17" title="UEA ACCOUNTS" titleNormalized="uea accounts" src="slide18.swf" size="11512" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>UEA ACCOUNTS
+PHISHING
+PASSWORDS
+STAY SAFE
+********
+HOME</text>
+		</slide>
+		<slide index="18" title="ACCOUNTS PHISHING" titleNormalized="accounts phishing" src="slide19.swf" size="7149" advanceOnTime="0" framesCount="2343" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video10" videoClipId="ispring.resources_285b0a60.spr0_1698913796" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_285b0a60.spr2_1698913796" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video10" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2342" playTime="97.5833333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ACCOUNTS PHISHING
+HOME</text>
+		</slide>
+		<slide index="19" title="ACCOUNTS PASSWORDS" titleNormalized="accounts passwords" src="slide20.swf" size="18542" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ACCOUNTS PASSWORDS
+IF YOU FORGET YOUR PASSWORD VISIT 
+UEA.AC.UK/FORGOT-PASSWORD
+ANSWER YOUR SECURITY QUESTIONS TO GET UP &amp; RUNNING 
+
+HOME
+IN PERSON
+YOU CAN VISIT ONE OF OUR PASSWORD RESET STATIONS SITUATED IN THE LIBRARY ON FLOOR 0 NEXT TO THE IT SERVICE DESK
+
+SELF HELP
+PLEASE VISIT PORTAL.UEA.AC.UK/ITSERVICES/UEA-SECURITY
+FOR MORE INFORMATION
+</text>
+		</slide>
+		<slide index="20" title="ACCOUNTS STAY SAFE" titleNormalized="accounts stay safe" src="slide21.swf" size="4008" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ACCOUNTS STAY SAFE
+ALWAYS KEEP YOUR PASSWORD SECURE Don’t tell anyone your password.
+ 
+DON'T REVEAL PERSONAL INFORMATION IN AN EMAIL Don’t respond to email (or links in emails) asking for this information. 
+ 
+PAY ATTENTION TO WEBSITE'S URL
+A malicious website may look identical but the URL may be slightly different. 
+ 
+KEEP A CLEAN MACHINE Update devices and all software on internet connected devices.
+ 
+UNIQUE ACCOUNT, UNIQUE PASSWORD Have separate passwords for every account. Consider using a password manager to help you remember your passwords.
+ 
+IF IN DOUBT, DOUBLE CHECK If it looks suspicious, or too good to be true, use a different contact method to check if the email is genuine. 
+ 
+IF YOU HAVE A PROBLEM Change your password IMMEDIATELY and report it to the IT Service Desk and if you think your bank details have been stolen contact your bank immediately.
+HOME</text>
+		</slide>
+		<slide index="21" title="TIMETABLES IOS &amp; ANDROID" titleNormalized="timetables ios &amp; android" src="slide22.swf" size="7154" advanceOnTime="0" framesCount="1903" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video11" videoClipId="ispring.resources_285b14e0.spr0_1698952406" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_285b14e0.spr2_1698952406" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video11" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1902" playTime="79.2500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>TIMETABLES IOS &amp; ANDROID
+HOME</text>
 		</slide>
 	</slides>
 </presentation>
